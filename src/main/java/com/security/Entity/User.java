@@ -1,4 +1,4 @@
-package com.security.user;
+package com.security.Entity;
 
 import com.security.Enum.Role;
 import jakarta.persistence.*;
